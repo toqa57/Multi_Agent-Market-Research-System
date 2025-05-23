@@ -1,0 +1,12 @@
+2025-05-23 22:21:40,860 - ai_ml_jobs_mena - INFO - Logging system initialized
+2025-05-23 22:21:43,416 - DataManager - INFO - Created data directory: E:\intelligent programming\Multi_Agent Market Research System\utils\data\raw
+2025-05-23 22:21:43,417 - DataManager - INFO - Created data subdirectory: E:\intelligent programming\Multi_Agent Market Research System\utils\data\raw\linkedin
+2025-05-23 22:21:43,419 - DataManager - INFO - Created data subdirectory: E:\intelligent programming\Multi_Agent Market Research System\utils\data\raw\bayt
+2025-05-23 22:21:43,419 - DataManager - INFO - Created data subdirectory: E:\intelligent programming\Multi_Agent Market Research System\utils\data\raw\wuzzuf
+2025-05-23 22:21:43,420 - DataManager - INFO - Created data directory: E:\intelligent programming\Multi_Agent Market Research System\utils\data\processed
+2025-05-23 22:21:43,421 - DataManager - INFO - Created data directory: E:\intelligent programming\Multi_Agent Market Research System\utils\data\visualizations
+2025-05-23 22:21:43,422 - DataManager - INFO - Created reports directory: E:\intelligent programming\Multi_Agent Market Research System\outputs\reports
+2025-05-23 22:21:43,424 - DataManager - INFO - Write verified in: E:\intelligent programming\Multi_Agent Market Research System\utils\data\raw\linkedin
+2025-05-23 22:21:43,426 - DataManager - INFO - Write verified in: E:\intelligent programming\Multi_Agent Market Research System\utils\data\processed
+2025-05-23 22:21:43,428 - DataManager - INFO - Write verified in: E:\intelligent programming\Multi_Agent Market Research System\outputs\reports
+2025-05-23 22:21:43,430 - DataManager - INFO - Report saved to: E:\intelligent programming\Multi_Agent Market Research System\outputs\reports\MENA_AI_Jobs_Report.md

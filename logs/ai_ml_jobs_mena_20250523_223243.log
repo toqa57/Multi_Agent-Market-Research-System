@@ -1,0 +1,13 @@
+2025-05-23 22:32:43,054 - ai_ml_jobs_mena - INFO - Logging system initialized
+2025-05-23 22:32:49,840 - httpx - INFO - HTTP Request: GET https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json "HTTP/1.1 200 OK"
+2025-05-23 22:32:53,390 - root - INFO - Logging system initialized
+2025-05-23 22:32:53,391 - DataManager - INFO - Created data directory: E:\intelligent programming\Multi_Agent Market Research System\utils\data\raw
+2025-05-23 22:32:53,391 - DataManager - INFO - Created data subdirectory: E:\intelligent programming\Multi_Agent Market Research System\utils\data\raw\linkedin
+2025-05-23 22:32:53,391 - DataManager - INFO - Created data subdirectory: E:\intelligent programming\Multi_Agent Market Research System\utils\data\raw\bayt
+2025-05-23 22:32:53,393 - DataManager - INFO - Created data subdirectory: E:\intelligent programming\Multi_Agent Market Research System\utils\data\raw\wuzzuf
+2025-05-23 22:32:53,393 - DataManager - INFO - Created data directory: E:\intelligent programming\Multi_Agent Market Research System\utils\data\processed
+2025-05-23 22:32:53,393 - DataManager - INFO - Created data directory: E:\intelligent programming\Multi_Agent Market Research System\utils\data\visualizations
+2025-05-23 22:32:53,394 - DataManager - INFO - Created reports directory: E:\intelligent programming\Multi_Agent Market Research System\outputs\reports
+2025-05-23 22:32:53,395 - DataManager - INFO - Write verified in: E:\intelligent programming\Multi_Agent Market Research System\utils\data\raw\linkedin
+2025-05-23 22:32:53,397 - DataManager - INFO - Write verified in: E:\intelligent programming\Multi_Agent Market Research System\utils\data\processed
+2025-05-23 22:32:53,398 - DataManager - INFO - Write verified in: E:\intelligent programming\Multi_Agent Market Research System\outputs\reports
