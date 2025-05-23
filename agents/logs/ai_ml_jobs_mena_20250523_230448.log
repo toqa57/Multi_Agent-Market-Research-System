@@ -1,0 +1,2 @@
+2025-05-23 23:04:48,340 - ai_ml_jobs_mena - INFO - Logging system initialized
+2025-05-23 23:04:48,341 - ai_ml_jobs_mena - ERROR - Search tool creation failed: google-api-python-client is not installed. Please install it with `pip install google-api-python-client>=2.100.0`
